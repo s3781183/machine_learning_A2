@@ -7,3 +7,7 @@ We ran our notebooks on google colab. The zip files containing the images and da
 <h3> cellType.ipynb </h3> contains the the models predicting cell-Type. 
 
 <h3> isCancerous.ipynb  </h3> contains the the models predicting isCancerous. 
+
+<h3> Members: </h3>
+<li> Amna </li>
+<li> Ruchelle </li>
