@@ -1,6 +1,6 @@
 <h1> Machine Learning </h1>
 
-We used a modifieded version of the "CRCHistoPhenotypes" dataset for this task.
+We used a modified version of the "CRCHistoPhenotypes" dataset for this task.
 
 We ran our notebooks on google colab. The zip files containing the images and datasets is located in the colab folder in our google drive.
 
